@@ -1,0 +1,11 @@
+
+{
+  "public": {
+    "recordsPerPage" : "5"
+  },
+  "private": {
+    "AWSAccessKeyId" : "AKIAISF7CIRZCR4H7AVA",
+    "AWSSecretAccessKey" : "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",
+    "AWSBucket" : "vinaystore"
+  }
+}
